@@ -41,8 +41,6 @@ public abstract class AbstractKafkaAvroSerializer extends AbstractAvroSerDe {
 					writer = new GenericDatumWriter<>();
 				}
 				
-				
-				
 			}
 			
 			
